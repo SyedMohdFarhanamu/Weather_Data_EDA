@@ -1,0 +1,701 @@
+,category,product_brand,product_name,date,quantity,price
+1,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,8/9/2018,1,3.9
+2,OLDER SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,2/25/2019,2,7.2
+3,RETIREES,WOOLWORTHS,WW Crinkle Cut      Original 175g,1/21/2019,1,1.7
+4,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,5/22/2019,2,3.4
+5,RETIREES,Doritos,Doritos Cheese      Supreme 330g,11/3/2018,2,11.4
+6,MIDAGE FAMILIES,Cheetos,Cheetos Chs & Bacon Balls 190g,9/12/2018,2,6.6
+7,RETIREES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,7/18/2018,2,3.8
+8,OLDER FAMILIES,Red,Red Rock Deli Thai  Chilli&Lime 150g,4/15/2019,2,5.4
+9,OLDER SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,12/24/2018,2,7.4
+10,MIDAGE SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,12/20/2018,2,7.4
+11,YOUNG FAMILIES,Pringles,Pringles SourCream  Onion 134g,6/28/2019,2,7.4
+12,RETIREES,Infuzions,Infuzions Mango     Chutny Papadums 70g,1/17/2019,2,4.8
+13,RETIREES,Pringles,Pringles Sthrn FriedChicken 134g,10/29/2018,2,7.4
+14,RETIREES,Grain,Grain Waves         Sweet Chilli 210g,5/30/2019,2,7.2
+15,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,7/17/2018,2,9.2
+16,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,2/11/2019,2,3.4
+17,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,8/25/2018,2,3.4
+18,OLDER FAMILIES,RRD,RRD Salt & Vinegar  165g,1/17/2019,2,6
+19,YOUNG SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,12/19/2018,2,7.4
+20,RETIREES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,8/20/2018,1,4.6
+21,RETIREES,Cheetos,Cheetos Puffs 165g,8/26/2018,2,5.6
+22,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,3/1/2019,2,9.2
+23,OLDER FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,3/13/2019,2,8.8
+24,OLDER FAMILIES,Doritos,Doritos Corn Chips  Original 170g,3/3/2019,2,8.8
+25,YOUNG FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,7/29/2018,2,6
+26,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,4/11/2019,2,9.2
+27,OLDER FAMILIES,WOOLWORTHS,WW Original Stacked Chips 160g,9/28/2018,2,3.8
+28,MIDAGE SINGLES/FAMILIES,WOOLWORTHS,WW Supreme Cheese   Corn Chips 200g,12/3/2018,2,3.8
+29,NEW FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,9/3/2018,2,7.6
+30,MIDAGE SINGLES/FAMILIES,Pringles,Pringles Mystery    Flavour 134g,12/24/2018,2,7.4
+31,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,8/16/2018,5,19
+32,YOUNG FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,7/8/2018,2,7.6
+33,OLDER FAMILIES,Cheetos,Cheetos Puffs 165g,9/25/2018,2,5.6
+34,MIDAGE FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,8/22/2018,2,7.6
+35,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,7/25/2018,2,10.8
+36,OLDER FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,2/14/2019,2,3.6
+37,OLDER FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,10/7/2018,2,9.2
+38,YOUNG FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,5/5/2019,2,7.8
+39,YOUNG SINGLES/FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,10/26/2018,2,10.8
+40,MIDAGE FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,2/26/2019,2,7.6
+41,OLDER FAMILIES,Doritos,Doritos Mexicana    170g,2/24/2019,2,8.8
+42,OLDER SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,6/29/2019,2,7.4
+43,OLDER SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,4/5/2019,2,7.6
+44,OLDER FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,4/10/2019,2,8.4
+45,OLDER SINGLES/FAMILIES,Cheetos,Cheetos Puffs 165g,5/1/2019,2,5.6
+46,RETIREES,Kettle,Kettle Sensations   BBQ&Maple 150g,6/4/2019,2,9.2
+47,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,11/21/2018,2,7.8
+48,YOUNG FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,4/21/2019,2,7.6
+49,YOUNG FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,11/22/2018,2,9.2
+50,OLDER FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,1/10/2019,2,7.4
+51,YOUNG FAMILIES,WOOLWORTHS,WW Original Stacked Chips 160g,8/10/2018,2,3.8
+52,RETIREES,Pringles,Pringles Barbeque   134g,10/26/2018,2,7.4
+53,NEW FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,1/27/2019,2,7.6
+54,OLDER FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,6/25/2019,2,7.6
+55,OLDER SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,12/17/2018,2,7.6
+56,YOUNG FAMILIES,RRD,RRD Steak &         Chimuchurri 150g,2/17/2019,2,5.4
+57,MIDAGE SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,11/19/2018,2,7.6
+58,YOUNG FAMILIES,Pringles,Pringles Mystery    Flavour 134g,2/5/2019,2,7.4
+59,OLDER FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,9/25/2018,2,7.8
+60,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,11/1/2018,2,3.4
+61,RETIREES,RRD,RRD SR Slow Rst     Pork Belly 150g,4/3/2019,2,5.4
+62,YOUNG FAMILIES,Pringles,Pringles Original   Crisps 134g,4/20/2019,2,7.4
+63,RETIREES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,10/18/2018,2,7.6
+64,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,8/12/2018,2,3.4
+65,YOUNG FAMILIES,RRD,RRD Salt & Vinegar  165g,8/21/2018,2,6
+66,OLDER SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,7/10/2018,2,7.2
+67,OLDER FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,5/12/2019,2,10.8
+68,RETIREES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,6/2/2019,2,7.6
+69,OLDER FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,7/14/2018,2,9.2
+70,OLDER FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,2/19/2019,2,7.6
+71,YOUNG SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,11/24/2018,2,7.2
+72,OLDER FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,4/24/2019,2,5.4
+73,RETIREES,Kettle,Kettle Honey Soy    Chicken 175g,9/20/2018,2,10.8
+74,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,10/28/2018,2,9.2
+75,RETIREES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,11/14/2018,2,7.6
+76,MIDAGE FAMILIES,Doritos,Doritos Corn Chips  Original 170g,12/21/2018,2,8.8
+77,YOUNG SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,12/5/2018,2,11.4
+78,RETIREES,Grain,Grain Waves Sour    Cream&Chives 210G,10/12/2018,2,7.2
+79,OLDER SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,4/17/2019,1,3.8
+80,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,5/31/2019,2,7.6
+81,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,2/21/2019,2,7.6
+82,MIDAGE SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,12/21/2018,2,7.4
+83,MIDAGE SINGLES/FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,5/11/2019,2,7.8
+84,YOUNG FAMILIES,Red,Red Rock Deli Sp    Salt & Truffle 150G,6/2/2019,2,5.4
+85,MIDAGE FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,6/20/2019,2,7.6
+86,YOUNG FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,6/21/2019,2,4.8
+87,OLDER FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,10/4/2018,2,9.2
+88,RETIREES,WOOLWORTHS,WW D/Style Chip     Sea Salt 200g,3/14/2019,1,1.9
+89,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Original 175g,6/1/2019,2,10.8
+90,OLDER SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,3/24/2019,2,7.4
+91,YOUNG FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,8/16/2018,1,3.25
+92,YOUNG FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,6/2/2019,2,7.6
+93,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,10/20/2018,2,8.8
+94,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,11/14/2018,2,8.8
+95,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,6/25/2019,2,8.8
+96,YOUNG FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,8/23/2018,2,7.4
+97,OLDER FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,3/17/2019,2,10.8
+98,YOUNG FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,3/28/2019,2,7.4
+99,OLDER FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,10/17/2018,2,8.8
+100,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,1/2/2019,1,4.6
+101,YOUNG FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,2/23/2019,2,6
+102,OLDER SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,3/10/2019,2,7.2
+103,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Original Stacked Chips 160g,11/27/2018,2,3.8
+104,RETIREES,Kettle,Kettle Sensations   Siracha Lime 150g,10/28/2018,2,9.2
+105,MIDAGE SINGLES/FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,10/28/2018,1,3.8
+106,YOUNG FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,3/8/2019,2,7.6
+107,OLDER FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,7/22/2018,2,9.2
+108,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,3/31/2019,2,10.8
+109,YOUNG FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,6/7/2019,1,3.8
+110,YOUNG FAMILIES,Kettle,Kettle Chilli 175g,2/13/2019,2,10.8
+111,MIDAGE FAMILIES,Doritos,Doritos Corn Chips  Original 170g,4/23/2019,2,8.8
+112,OLDER SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,7/17/2018,2,7.4
+113,OLDER FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,12/14/2018,2,8.4
+114,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,1/31/2019,2,9.2
+115,OLDER FAMILIES,Kettle,Kettle Chilli 175g,11/8/2018,2,10.8
+116,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,12/13/2018,2,3.4
+117,OLDER SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,4/14/2019,2,7.4
+118,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,4/29/2019,2,10.8
+119,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,6/15/2019,2,9.2
+120,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,12/5/2018,2,9.2
+121,YOUNG FAMILIES,WOOLWORTHS,WW Original Corn    Chips 200g,3/28/2019,2,3.8
+122,YOUNG SINGLES/FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,9/14/2018,2,6
+123,YOUNG FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,6/14/2019,2,7.6
+124,RETIREES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,6/1/2019,2,7.6
+125,YOUNG SINGLES/FAMILIES,Pringles,Pringles Slt Vingar 134g,1/10/2019,1,3.7
+126,OLDER FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,8/13/2018,2,13
+127,YOUNG FAMILIES,Pringles,Pringles Barbeque   134g,10/2/2018,2,7.4
+128,RETIREES,WOOLWORTHS,WW Original Stacked Chips 160g,6/7/2019,1,1.9
+129,RETIREES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,9/17/2018,2,7.6
+130,RETIREES,RRD,RRD Pc Sea Salt     165g,1/26/2019,2,6
+131,RETIREES,Pringles,Pringles Chicken    Salt Crips 134g,10/4/2018,2,7.4
+132,YOUNG FAMILIES,Red,Red Rock Deli Sp    Salt & Truffle 150G,3/18/2019,2,5.4
+133,MIDAGE SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,9/27/2018,2,7.2
+134,YOUNG SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,3/22/2019,1,3.6
+135,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,9/15/2018,2,7.4
+136,OLDER FAMILIES,Pringles,Pringles SourCream  Onion 134g,4/8/2019,2,7.4
+137,RETIREES,Kettle,Kettle Sensations   BBQ&Maple 150g,9/11/2018,2,9.2
+138,OLDER FAMILIES,RRD,RRD Pc Sea Salt     165g,1/13/2019,2,6
+139,RETIREES,Kettle,Kettle Sensations   BBQ&Maple 150g,1/24/2019,2,9.2
+140,YOUNG SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,3/25/2019,2,7.2
+141,MIDAGE FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,4/24/2019,2,7.6
+142,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,6/10/2019,2,8.8
+143,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,7/31/2018,2,3.4
+144,YOUNG FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,3/27/2019,2,7.4
+145,YOUNG SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,8/3/2018,2,7.2
+146,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,6/21/2019,2,7.4
+147,OLDER FAMILIES,Doritos,Doritos Mexicana    170g,4/5/2019,2,8.8
+148,OLDER SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,12/14/2018,2,10.8
+149,YOUNG FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,7/4/2018,2,9.2
+150,OLDER FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,7/26/2018,2,10.8
+151,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW D/Style Chip     Sea Salt 200g,7/6/2018,2,3.8
+152,YOUNG SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,9/17/2018,2,7.2
+153,RETIREES,Kettle,Kettle Original 175g,6/24/2019,2,10.8
+154,OLDER FAMILIES,Kettle,Kettle Original 175g,5/6/2019,2,10.8
+155,NEW FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,5/2/2019,1,3.9
+156,YOUNG FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,7/17/2018,2,8.8
+157,RETIREES,Kettle,Kettle 135g Swt Pot Sea Salt,9/12/2018,2,8.4
+158,RETIREES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,4/3/2019,2,10.8
+159,OLDER SINGLES/FAMILIES,Pringles,Pringles Slt Vingar 134g,12/16/2018,2,7.4
+160,OLDER SINGLES/FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,2/7/2019,1,2.7
+161,RETIREES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,7/18/2018,2,7.6
+162,OLDER SINGLES/FAMILIES,RRD,RRD Chilli&         Coconut 150g,9/24/2018,2,5.4
+163,YOUNG SINGLES/FAMILIES,Cheetos,Cheetos Puffs 165g,3/2/2019,1,2.8
+164,YOUNG FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,6/16/2019,2,7.4
+165,NEW SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,2/28/2019,2,7.6
+166,OLDER FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,1/2/2019,2,7.6
+167,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,10/22/2018,2,8.8
+168,OLDER FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,3/24/2019,2,10.8
+169,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,12/18/2018,2,10.8
+170,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,7/24/2018,2,9.2
+171,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,6/8/2019,2,7.6
+172,YOUNG FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,4/19/2019,2,13
+173,RETIREES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,4/25/2019,2,7.6
+174,NEW FAMILIES,Doritos,Doritos Mexicana    170g,3/4/2019,2,8.8
+175,YOUNG SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,6/12/2019,2,13
+176,YOUNG FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,9/12/2018,2,13
+177,RETIREES,Kettle,Kettle Sensations   BBQ&Maple 150g,1/21/2019,2,9.2
+178,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,1/8/2019,2,7.6
+179,RETIREES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,8/17/2018,1,4.6
+180,OLDER SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,5/3/2019,2,13
+181,OLDER FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,2/11/2019,2,7.2
+182,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,1/13/2019,2,9.2
+183,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,5/23/2019,2,7.6
+184,YOUNG FAMILIES,RRD,RRD Pc Sea Salt     165g,11/17/2018,2,6
+185,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,6/7/2019,2,7.6
+186,RETIREES,Pringles,Pringles Slt Vingar 134g,8/5/2018,2,7.4
+187,RETIREES,Pringles,Pringles Barbeque   134g,7/3/2018,2,7.4
+188,OLDER FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,1/6/2019,2,7.4
+189,OLDER FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,1/19/2019,2,8.8
+190,YOUNG SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,5/22/2019,1,3.7
+191,OLDER SINGLES/FAMILIES,Pringles,Pringles Slt Vingar 134g,8/30/2018,2,7.4
+192,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Original 170g,12/27/2018,2,8.8
+193,OLDER SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,5/10/2019,2,7.6
+194,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,2/5/2019,2,9.2
+195,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Supreme Cheese   Corn Chips 200g,10/30/2018,2,3.8
+196,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,8/7/2018,2,8.8
+197,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,8/2/2018,1,1.9
+198,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,6/3/2019,2,7.6
+199,YOUNG FAMILIES,Pringles,Pringles Barbeque   134g,10/24/2018,2,7.4
+200,YOUNG SINGLES/FAMILIES,RRD,RRD Salt & Vinegar  165g,12/14/2018,2,6
+201,OLDER SINGLES/FAMILIES,Cheetos,Cheetos Chs & Bacon Balls 190g,12/11/2018,2,6.6
+202,OLDER FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,6/15/2019,2,7.6
+203,OLDER FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,9/14/2018,2,7.6
+204,YOUNG FAMILIES,WOOLWORTHS,WW Supreme Cheese   Corn Chips 200g,5/6/2019,2,3.8
+205,MIDAGE FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,2/13/2019,2,3.4
+206,OLDER FAMILIES,Red,Red Rock Deli Sp    Salt & Truffle 150G,9/5/2018,2,5.4
+207,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Original Corn    Chips 200g,6/21/2019,2,3.8
+208,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,7/30/2018,2,8.8
+209,OLDER FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,7/12/2018,2,3.6
+210,YOUNG FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,3/30/2019,2,7.8
+211,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,5/5/2019,2,9.2
+212,MIDAGE SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,10/13/2018,2,13
+213,RETIREES,Doritos,Doritos Corn Chip Southern Chicken 150g,12/30/2018,2,7.8
+214,OLDER SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,2/16/2019,2,11.4
+215,OLDER SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,3/24/2019,2,7.6
+216,RETIREES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,4/8/2019,2,7.6
+217,OLDER FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,5/11/2019,2,7.2
+218,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,3/22/2019,2,7.6
+219,YOUNG FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,12/7/2018,2,8.8
+220,RETIREES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,11/18/2018,2,7.6
+221,RETIREES,Pringles,Pringles Sthrn FriedChicken 134g,8/8/2018,2,7.4
+222,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,10/13/2018,2,3.4
+223,OLDER SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,11/2/2018,2,10.8
+224,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,1/26/2019,2,9.2
+225,RETIREES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,6/11/2019,2,7.6
+226,MIDAGE FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,7/21/2018,2,10.8
+227,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,7/21/2018,1,5.4
+228,YOUNG SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,5/16/2019,2,9.2
+229,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,8/13/2018,2,3.8
+230,RETIREES,Pringles,Pringles Barbeque   134g,1/11/2019,1,3.7
+231,YOUNG SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,1/25/2019,2,7.2
+232,OLDER FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,12/2/2018,2,4.8
+233,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,11/11/2018,2,7.6
+234,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,3/2/2019,2,9.2
+235,MIDAGE SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,9/16/2018,2,8.8
+236,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,6/24/2019,2,9.2
+237,OLDER FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,3/10/2019,2,7.6
+238,RETIREES,WOOLWORTHS,WW Original Corn    Chips 200g,1/2/2019,2,3.8
+239,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,9/24/2018,2,8.8
+240,YOUNG FAMILIES,Doritos,Doritos Mexicana    170g,8/26/2018,2,8.8
+241,RETIREES,Pringles,Pringles Slt Vingar 134g,11/1/2018,2,7.4
+242,OLDER SINGLES/FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,11/25/2018,2,8.4
+243,YOUNG FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,9/6/2018,2,13
+244,MIDAGE SINGLES/FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,10/5/2018,2,7.6
+245,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,2/27/2019,2,7.6
+246,YOUNG SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,1/20/2019,2,7.6
+247,RETIREES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,7/11/2018,2,9.2
+248,RETIREES,Kettle,Kettle Sensations   Siracha Lime 150g,7/1/2018,2,9.2
+249,OLDER SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,11/22/2018,2,11.4
+250,YOUNG SINGLES/FAMILIES,RRD,RRD Salt & Vinegar  165g,12/13/2018,1,3
+251,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,6/25/2019,1,3.8
+252,YOUNG SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,11/26/2018,2,10.8
+253,RETIREES,Kettle,Kettle Sensations   Camembert & Fig 150g,3/7/2019,2,9.2
+254,RETIREES,Kettle,Kettle Sensations   Camembert & Fig 150g,9/10/2018,2,9.2
+255,MIDAGE FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,11/10/2018,1,3.8
+256,RETIREES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,10/16/2018,2,8.8
+257,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,7/22/2018,2,9.2
+258,OLDER FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,11/15/2018,2,10.8
+259,YOUNG FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,11/28/2018,2,7.6
+260,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,9/22/2018,2,10.8
+261,MIDAGE FAMILIES,Pringles,Pringles Mystery    Flavour 134g,4/19/2019,2,7.4
+262,MIDAGE FAMILIES,Kettle,Kettle Original 175g,7/19/2018,2,10.8
+263,OLDER SINGLES/FAMILIES,RRD,RRD Salt & Vinegar  165g,2/11/2019,2,6
+264,OLDER SINGLES/FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,10/28/2018,2,6
+265,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,3/31/2019,2,7.6
+266,OLDER FAMILIES,Doritos,Doritos Cheese      Supreme 330g,10/15/2018,2,11.4
+267,OLDER FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,11/20/2018,2,9.2
+268,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,3/13/2019,2,8.8
+269,OLDER SINGLES/FAMILIES,Kettle,Kettle Original 175g,8/18/2018,1,5.4
+270,YOUNG SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,1/1/2019,2,8.8
+271,OLDER FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,3/23/2019,2,8.8
+272,RETIREES,Infuzions,Infuzions Mango     Chutny Papadums 70g,11/29/2018,2,4.8
+273,YOUNG SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,7/28/2018,2,7.4
+274,YOUNG FAMILIES,Pringles,Pringles SourCream  Onion 134g,6/22/2019,2,7.4
+275,OLDER FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,7/19/2018,2,7.8
+276,RETIREES,RRD,RRD SR Slow Rst     Pork Belly 150g,7/2/2018,2,5.4
+277,YOUNG FAMILIES,WOOLWORTHS,WW Original Corn    Chips 200g,8/10/2018,2,3.8
+278,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,1/31/2019,2,9.2
+279,RETIREES,Tostitos,Tostitos Splash Of  Lime 175g,1/4/2019,2,8.8
+280,YOUNG SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,7/10/2018,1,3.7
+281,RETIREES,Kettle,Kettle Honey Soy    Chicken 175g,12/4/2018,2,10.8
+282,OLDER FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,2/13/2019,2,8.8
+283,OLDER SINGLES/FAMILIES,Kettle,Kettle Original 175g,11/29/2018,2,10.8
+284,OLDER FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,12/18/2018,2,7.6
+285,RETIREES,Dorito,Dorito Corn Chp     Supreme 380g,9/7/2018,2,13
+286,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,10/23/2018,2,7.8
+287,OLDER FAMILIES,RRD,RRD Lime & Pepper   165g,5/5/2019,2,6
+288,YOUNG SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,4/1/2019,2,7.2
+289,OLDER SINGLES/FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,10/10/2018,2,4.8
+290,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,9/23/2018,2,10.8
+291,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,9/13/2018,2,10.8
+292,MIDAGE SINGLES/FAMILIES,Pringles,Pringles Barbeque   134g,1/16/2019,2,7.4
+293,RETIREES,Cheetos,Cheetos Puffs 165g,4/7/2019,2,5.6
+294,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,2/12/2019,2,3.4
+295,OLDER SINGLES/FAMILIES,RRD,RRD Honey Soy       Chicken 165g,7/7/2018,1,3
+296,NEW FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,7/19/2018,2,6
+297,OLDER SINGLES/FAMILIES,RRD,RRD Steak &         Chimuchurri 150g,6/9/2019,2,5.4
+298,MIDAGE FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,10/7/2018,2,10.8
+299,RETIREES,RRD,RRD Steak &         Chimuchurri 150g,1/17/2019,2,5.4
+300,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,2/3/2019,2,9.2
+301,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Original 170g,1/9/2019,1,4.4
+302,OLDER SINGLES/FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,10/4/2018,2,7.4
+303,RETIREES,Pringles,Pringles Barbeque   134g,8/27/2018,2,7.4
+304,OLDER SINGLES/FAMILIES,Pringles,Pringles Mystery    Flavour 134g,9/13/2018,2,7.4
+305,YOUNG SINGLES/FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,3/28/2019,2,6
+306,RETIREES,Pringles,Pringles Sthrn FriedChicken 134g,9/18/2018,2,7.4
+307,YOUNG FAMILIES,Red,Red Rock Deli Thai  Chilli&Lime 150g,6/2/2019,2,5.4
+308,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Original 170g,3/6/2019,2,8.8
+309,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,2/20/2019,2,7.6
+310,YOUNG SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,5/18/2019,1,3.6
+311,MIDAGE FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,12/17/2018,2,7.4
+312,RETIREES,RRD,RRD Honey Soy       Chicken 165g,4/9/2019,2,6
+313,RETIREES,Kettle,Kettle Sea Salt     And Vinegar 175g,6/14/2019,2,10.8
+314,RETIREES,Kettle,Kettle Sensations   Siracha Lime 150g,7/16/2018,2,9.2
+315,OLDER FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,7/12/2018,2,8.8
+316,NEW SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,10/20/2018,2,10.8
+317,YOUNG FAMILIES,Red,Red Rock Deli Thai  Chilli&Lime 150g,6/27/2019,2,5.4
+318,RETIREES,Grain,Grain Waves Sour    Cream&Chives 210G,8/17/2018,1,3.6
+319,OLDER SINGLES/FAMILIES,Doritos,Doritos Mexicana    170g,4/2/2019,2,8.8
+320,YOUNG FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,7/25/2018,2,7.4
+321,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,5/2/2019,2,10.8
+322,OLDER FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,5/6/2019,2,7.6
+323,RETIREES,Doritos,Doritos Corn Chips  Original 170g,5/12/2019,2,8.8
+324,RETIREES,Woolworths,Woolworths Cheese   Rings 190g,12/9/2018,2,3.6
+325,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,6/18/2019,2,8.8
+326,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,7/1/2018,2,8.8
+327,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,8/28/2018,1,4.6
+328,RETIREES,RRD,RRD Lime & Pepper   165g,1/12/2019,2,6
+329,OLDER FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,11/3/2018,2,7.6
+330,OLDER SINGLES/FAMILIES,Kettle,Kettle Original 175g,3/10/2019,2,10.8
+331,OLDER FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,4/12/2019,2,5.4
+332,YOUNG FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,8/8/2018,2,7.8
+333,YOUNG SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,9/1/2018,2,8.8
+334,RETIREES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,9/1/2018,2,8.8
+335,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,1/1/2019,2,10.8
+336,RETIREES,Pringles,Pringles Sthrn FriedChicken 134g,8/21/2018,2,7.4
+337,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,11/7/2018,2,8.8
+338,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,1/29/2019,2,9.2
+339,OLDER SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,7/17/2018,2,7.6
+340,RETIREES,Pringles,Pringles Barbeque   134g,9/23/2018,2,7.4
+341,OLDER FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,9/19/2018,2,3.6
+342,YOUNG FAMILIES,Kettle,Kettle Chilli 175g,9/30/2018,2,10.8
+343,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,8/21/2018,2,7.6
+344,RETIREES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,4/4/2019,2,3.8
+345,YOUNG SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,5/10/2019,2,13
+346,RETIREES,Pringles,Pringles SourCream  Onion 134g,7/6/2018,1,3.7
+347,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,10/16/2018,2,9.2
+348,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,5/4/2019,2,8.8
+349,YOUNG FAMILIES,RRD,RRD Salt & Vinegar  165g,8/26/2018,2,6
+350,OLDER FAMILIES,RRD,RRD Chilli&         Coconut 150g,1/26/2019,2,5.4
+351,OLDER FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,6/6/2019,2,10.8
+352,YOUNG FAMILIES,Cheetos,Cheetos Chs & Bacon Balls 190g,9/18/2018,2,6.6
+353,MIDAGE SINGLES/FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,8/2/2018,2,7.4
+354,OLDER FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,7/31/2018,2,6
+355,RETIREES,RRD,RRD SR Slow Rst     Pork Belly 150g,3/5/2019,2,5.4
+356,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,9/28/2018,2,8.8
+357,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,2/9/2019,2,8.8
+358,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,12/31/2018,2,9.2
+359,OLDER SINGLES/FAMILIES,Red,Red Rock Deli Thai  Chilli&Lime 150g,7/27/2018,2,5.4
+360,OLDER FAMILIES,Pringles,Pringles Slt Vingar 134g,8/18/2018,1,3.7
+361,RETIREES,Pringles,Pringles Original   Crisps 134g,7/15/2018,2,7.4
+362,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,12/15/2018,2,10.8
+363,OLDER SINGLES/FAMILIES,Cheetos,Cheetos Puffs 165g,7/20/2018,2,5.6
+364,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,10/4/2018,1,3.9
+365,OLDER FAMILIES,Pringles,Pringles Original   Crisps 134g,3/30/2019,2,7.4
+366,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,2/22/2019,2,9.2
+367,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,2/9/2019,2,9.2
+368,RETIREES,Pringles,Pringles Mystery    Flavour 134g,9/12/2018,2,7.4
+369,YOUNG SINGLES/FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,3/4/2019,2,8.4
+370,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,11/27/2018,2,7.8
+371,OLDER SINGLES/FAMILIES,RRD,RRD Honey Soy       Chicken 165g,5/14/2019,1,3
+372,OLDER FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,2/6/2019,2,6
+373,YOUNG FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,7/11/2018,2,5.4
+374,RETIREES,Pringles,Pringles Sthrn FriedChicken 134g,5/31/2019,2,7.4
+375,OLDER FAMILIES,Pringles,Pringles Slt Vingar 134g,6/14/2019,2,7.4
+376,YOUNG FAMILIES,Pringles,Pringles SourCream  Onion 134g,2/11/2019,2,7.4
+377,OLDER FAMILIES,Pringles,Pringles Barbeque   134g,2/3/2019,2,7.4
+378,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,5/31/2019,2,7.4
+379,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Supreme Cheese   Corn Chips 200g,10/30/2018,2,3.8
+380,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,7/24/2018,2,9.2
+381,MIDAGE FAMILIES,RRD,RRD Pc Sea Salt     165g,3/23/2019,2,6
+382,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,9/5/2018,2,8.8
+383,YOUNG FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,3/8/2019,2,7.4
+384,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,4/17/2019,2,3.4
+385,OLDER FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,11/10/2018,2,7.6
+386,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,10/2/2018,2,9.2
+387,OLDER SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,2/26/2019,2,7.4
+388,YOUNG FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,3/3/2019,2,8.4
+389,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Original 170g,2/25/2019,2,8.8
+390,MIDAGE FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,4/24/2019,2,8.8
+391,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,10/14/2018,1,3.8
+392,YOUNG SINGLES/FAMILIES,RRD,RRD SR Slow Rst     Pork Belly 150g,12/11/2018,2,5.4
+393,RETIREES,Doritos,Doritos Mexicana    170g,5/12/2019,2,8.8
+394,RETIREES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,4/3/2019,1,3.8
+395,RETIREES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,1/28/2019,2,5.4
+396,OLDER SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,1/28/2019,2,10.8
+397,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,1/28/2019,2,8.8
+398,RETIREES,Pringles,Pringles Original   Crisps 134g,2/25/2019,2,7.4
+399,YOUNG SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,4/26/2019,2,7.4
+400,OLDER FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,1/20/2019,1,3.9
+401,OLDER SINGLES/FAMILIES,Doritos,Doritos Mexicana    170g,7/4/2018,2,8.8
+402,RETIREES,Kettle,Kettle Original 175g,8/29/2018,2,10.8
+403,NEW FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,5/23/2019,2,7.6
+404,MIDAGE SINGLES/FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,7/24/2018,2,3.6
+405,OLDER SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,10/21/2018,2,7.2
+406,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,4/18/2019,2,9.2
+407,NEW FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,9/15/2018,2,7.4
+408,YOUNG FAMILIES,RRD,RRD Honey Soy       Chicken 165g,9/15/2018,2,6
+409,OLDER FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,9/9/2018,2,7.6
+410,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,9/23/2018,2,10.8
+411,YOUNG SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,4/30/2019,2,8.8
+412,YOUNG SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,3/21/2019,2,10.8
+413,OLDER SINGLES/FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,11/20/2018,2,10.8
+414,YOUNG SINGLES/FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,9/15/2018,2,8.8
+415,RETIREES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,11/13/2018,2,7.6
+416,OLDER SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,12/3/2018,2,11.4
+417,OLDER FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,11/8/2018,1,3.9
+418,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Original 170g,2/8/2019,2,8.8
+419,YOUNG SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,6/27/2019,2,10.8
+420,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,9/13/2018,2,10.8
+421,OLDER FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,3/1/2019,2,10.8
+422,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,5/15/2019,1,3.8
+423,OLDER FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,8/13/2018,1,4.6
+424,RETIREES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,3/10/2019,2,7.6
+425,MIDAGE FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,6/2/2019,2,9.2
+426,YOUNG FAMILIES,RRD,RRD Chilli&         Coconut 150g,8/27/2018,2,5.4
+427,RETIREES,Doritos,Doritos Corn Chips  Original 170g,10/13/2018,2,8.8
+428,RETIREES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,12/3/2018,1,5.4
+429,YOUNG FAMILIES,Pringles,Pringles Original   Crisps 134g,6/28/2019,2,7.4
+430,OLDER SINGLES/FAMILIES,Kettle,Kettle Original 175g,7/13/2018,2,10.8
+431,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,10/18/2018,2,10.8
+432,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,10/14/2018,2,7.6
+433,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,1/29/2019,2,9.2
+434,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Original Stacked Chips 160g,9/14/2018,2,3.8
+435,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,8/14/2018,2,9.2
+436,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,3/28/2019,2,8.8
+437,NEW SINGLES/FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,5/25/2019,2,10.8
+438,RETIREES,Doritos,Doritos Corn Chip Southern Chicken 150g,9/19/2018,2,7.8
+439,YOUNG FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,5/16/2019,5,19
+440,OLDER FAMILIES,Pringles,Pringles Original   Crisps 134g,11/12/2018,2,7.4
+441,OLDER FAMILIES,RRD,RRD Chilli&         Coconut 150g,6/14/2019,2,5.4
+442,OLDER FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,3/2/2019,2,9.2
+443,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,10/4/2018,2,7.4
+444,OLDER SINGLES/FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,1/26/2019,2,3.6
+445,YOUNG SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,9/5/2018,1,5.4
+446,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,8/7/2018,2,7.6
+447,OLDER FAMILIES,Doritos,Doritos Mexicana    170g,6/14/2019,2,8.8
+448,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,6/16/2019,2,3.4
+449,YOUNG FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,5/3/2019,2,9.2
+450,MIDAGE SINGLES/FAMILIES,RRD,RRD Honey Soy       Chicken 165g,4/8/2019,2,6
+451,MIDAGE FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,12/27/2018,2,7.6
+452,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,8/7/2018,2,8.8
+453,YOUNG FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,6/17/2019,2,10.8
+454,NEW FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,7/9/2018,2,7.6
+455,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,11/5/2018,2,7.8
+456,OLDER FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,12/5/2018,2,6
+457,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,10/23/2018,2,9.2
+458,YOUNG FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,2/9/2019,2,7.6
+459,YOUNG FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,7/24/2018,2,9.2
+460,MIDAGE SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,1/29/2019,2,7.6
+461,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,5/20/2019,5,23
+462,OLDER SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,12/14/2018,1,3.7
+463,RETIREES,Pringles,Pringles SourCream  Onion 134g,2/12/2019,2,7.4
+464,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,5/24/2019,2,8.8
+465,YOUNG SINGLES/FAMILIES,Pringles,Pringles Barbeque   134g,3/26/2019,2,7.4
+466,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,5/17/2019,2,7.6
+467,OLDER FAMILIES,Cheetos,Cheetos Chs & Bacon Balls 190g,5/13/2019,2,6.6
+468,MIDAGE SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,7/10/2018,2,7.2
+469,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,2/3/2019,2,9.2
+470,YOUNG FAMILIES,Pringles,Pringles Barbeque   134g,8/8/2018,2,7.4
+471,YOUNG FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,4/11/2019,2,9.2
+472,RETIREES,RRD,RRD Salt & Vinegar  165g,11/1/2018,2,6
+473,YOUNG SINGLES/FAMILIES,Doritos,Doritos Mexicana    170g,12/13/2018,2,8.8
+474,RETIREES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,8/7/2018,2,7.6
+475,YOUNG FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,3/13/2019,2,10.8
+476,YOUNG FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,6/14/2019,2,6
+477,RETIREES,Doritos,Doritos Cheese      Supreme 330g,4/17/2019,2,11.4
+478,OLDER SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,6/25/2019,2,10.8
+479,RETIREES,Kettle,Kettle 135g Swt Pot Sea Salt,5/9/2019,2,8.4
+480,YOUNG SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,4/27/2019,2,9.2
+481,YOUNG SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,2/10/2019,1,6.5
+482,OLDER SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,3/29/2019,2,10.8
+483,YOUNG SINGLES/FAMILIES,RRD,RRD Pc Sea Salt     165g,11/23/2018,1,3
+484,OLDER SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,2/23/2019,2,7.4
+485,NEW FAMILIES,Doritos,Doritos Cheese      Supreme 330g,7/25/2018,2,11.4
+486,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Splash Of  Lime 175g,1/31/2019,2,8.8
+487,YOUNG SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,7/30/2018,2,7.4
+488,YOUNG FAMILIES,Doritos,Doritos Cheese      Supreme 330g,12/31/2018,2,11.4
+489,YOUNG FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,7/6/2018,2,7.2
+490,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW D/Style Chip     Sea Salt 200g,8/10/2018,2,3.8
+491,YOUNG FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,3/26/2019,2,7.4
+492,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,11/10/2018,1,1.7
+493,OLDER FAMILIES,Kettle,Kettle Original 175g,11/16/2018,2,10.8
+494,OLDER FAMILIES,WOOLWORTHS,WW Original Corn    Chips 200g,4/14/2019,2,3.8
+495,RETIREES,RRD,RRD Steak &         Chimuchurri 150g,9/18/2018,2,5.4
+496,OLDER FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,8/25/2018,2,6
+497,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Original 175g,6/26/2019,2,10.8
+498,RETIREES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,12/3/2018,2,9.2
+499,OLDER SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,7/1/2018,2,7.4
+500,OLDER FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,5/30/2019,2,7.4
+501,YOUNG FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,12/21/2018,2,8.4
+502,RETIREES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,10/30/2018,2,8.8
+503,OLDER SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,9/25/2018,2,7.4
+504,YOUNG FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,9/15/2018,2,7.6
+505,RETIREES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,10/12/2018,2,7.6
+506,YOUNG SINGLES/FAMILIES,Pringles,Pringles Barbeque   134g,4/2/2019,2,7.4
+507,OLDER SINGLES/FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,8/7/2018,2,6
+508,OLDER SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,11/23/2018,2,7.6
+509,RETIREES,RRD,RRD Sweet Chilli &  Sour Cream 165g,3/24/2019,2,6
+510,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,8/2/2018,1,5.4
+511,YOUNG SINGLES/FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,8/22/2018,2,5.4
+512,MIDAGE FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,7/25/2018,2,7.6
+513,YOUNG FAMILIES,Doritos,Doritos Mexicana    170g,4/15/2019,2,8.8
+514,YOUNG FAMILIES,Doritos,Doritos Mexicana    170g,6/27/2019,2,8.8
+515,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,8/16/2018,1,4.4
+516,YOUNG SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,7/17/2018,2,9.2
+517,OLDER FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,12/11/2018,2,7.8
+518,OLDER FAMILIES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,8/16/2018,1,1.9
+519,RETIREES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,3/3/2019,2,7.6
+520,MIDAGE SINGLES/FAMILIES,Kettle,Kettle 135g Swt Pot Sea Salt,3/9/2019,2,8.4
+521,OLDER FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,4/2/2019,2,10.8
+522,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,5/29/2019,2,9.2
+523,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,12/9/2018,2,9.2
+524,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Original Corn    Chips 200g,8/28/2018,2,3.8
+525,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,1/24/2019,2,9.2
+526,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,12/30/2018,2,9.2
+527,YOUNG FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,9/25/2018,2,7.6
+528,OLDER SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,8/16/2018,1,5.4
+529,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Supreme Cheese   Corn Chips 200g,11/7/2018,1,1.9
+530,YOUNG FAMILIES,Woolworths,Woolworths Cheese   Rings 190g,10/24/2018,2,3.6
+531,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,9/15/2018,2,8.8
+532,RETIREES,Tostitos,Tostitos Lightly    Salted 175g,1/23/2019,2,8.8
+533,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,8/8/2018,1,3.8
+534,RETIREES,Red,Red Rock Deli Thai  Chilli&Lime 150g,5/18/2019,1,2.7
+535,YOUNG SINGLES/FAMILIES,RRD,RRD Lime & Pepper   165g,7/5/2018,2,6
+536,OLDER FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,11/21/2018,2,13
+537,YOUNG SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,5/24/2019,2,7.2
+538,YOUNG SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,9/15/2018,2,7.8
+539,YOUNG SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,6/2/2019,2,7.6
+540,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,12/8/2018,2,10.8
+541,YOUNG FAMILIES,Doritos,Doritos Cheese      Supreme 330g,8/1/2018,2,11.4
+542,OLDER SINGLES/FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,5/31/2019,2,4.8
+543,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,6/9/2019,2,9.2
+544,OLDER FAMILIES,Pringles,Pringles Barbeque   134g,4/22/2019,2,7.4
+545,RETIREES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,10/18/2018,2,7.6
+546,NEW SINGLES/FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,2/14/2019,2,10.8
+547,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,6/15/2019,2,7.4
+548,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,12/7/2018,2,10.8
+549,OLDER FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,11/26/2018,2,8.8
+550,YOUNG SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,5/18/2019,2,7.4
+551,NEW FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,12/24/2018,2,9.2
+552,OLDER SINGLES/FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,10/8/2018,2,7.6
+553,YOUNG SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,3/16/2019,2,9.2
+554,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,2/9/2019,2,9.2
+555,RETIREES,Tostitos,Tostitos Lightly    Salted 175g,5/20/2019,3,13.2
+556,OLDER SINGLES/FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,6/14/2019,2,4.8
+557,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,10/1/2018,2,10.8
+558,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sweet Chilli And Sour Cream 175g,11/14/2018,2,10.8
+559,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sensations   Camembert & Fig 150g,3/14/2019,2,9.2
+560,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,7/16/2018,2,7.6
+561,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,5/21/2019,2,9.2
+562,OLDER FAMILIES,RRD,RRD Steak &         Chimuchurri 150g,3/9/2019,2,5.4
+563,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,5/11/2019,2,10.8
+564,YOUNG SINGLES/FAMILIES,Pringles,Pringles SourCream  Onion 134g,3/21/2019,1,3.7
+565,NEW FAMILIES,Cheetos,Cheetos Puffs 165g,11/14/2018,2,5.6
+566,RETIREES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,1/8/2019,2,9.2
+567,OLDER FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,11/6/2018,2,8.8
+568,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,2/14/2019,2,7.6
+569,YOUNG FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,12/19/2018,2,9.2
+570,OLDER FAMILIES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,8/23/2018,2,8.8
+571,RETIREES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,12/19/2018,2,7.6
+572,RETIREES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,1/3/2019,2,10.8
+573,OLDER SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,9/9/2018,2,7.6
+574,OLDER FAMILIES,Infuzions,Infuzions Mango     Chutny Papadums 70g,11/20/2018,2,4.8
+575,NEW FAMILIES,Doritos,Doritos Mexicana    170g,3/19/2019,2,8.8
+576,NEW SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,12/23/2018,2,9.2
+577,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,11/25/2018,2,10.8
+578,OLDER FAMILIES,Red,Red Rock Deli Sp    Salt & Truffle 150G,5/9/2019,2,5.4
+579,YOUNG FAMILIES,RRD,RRD Honey Soy       Chicken 165g,8/17/2018,2,6
+580,OLDER SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,2/3/2019,2,7.4
+581,RETIREES,Kettle,Kettle Original 175g,7/18/2018,1,5.4
+582,OLDER FAMILIES,Kettle,Kettle Chilli 175g,8/24/2018,2,10.8
+583,OLDER FAMILIES,Pringles,Pringles Mystery    Flavour 134g,2/5/2019,2,7.4
+584,RETIREES,RRD,RRD Honey Soy       Chicken 165g,3/8/2019,2,6
+585,YOUNG FAMILIES,Pringles,Pringles Slt Vingar 134g,3/19/2019,2,7.4
+586,RETIREES,Doritos,Doritos Cheese      Supreme 330g,1/17/2019,2,11.4
+587,OLDER SINGLES/FAMILIES,Red,Red Rock Deli Sp    Salt & Truffle 150G,5/14/2019,1,2.7
+588,NEW SINGLES/FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,3/26/2019,2,10.8
+589,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,11/19/2018,2,9.2
+590,OLDER SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,7/13/2018,2,10.8
+591,MIDAGE SINGLES/FAMILIES,Doritos,Doritos Mexicana    170g,5/23/2019,2,8.8
+592,RETIREES,Kettle,Kettle Original 175g,11/15/2018,2,10.8
+593,YOUNG SINGLES/FAMILIES,Pringles,Pringles Barbeque   134g,11/21/2018,2,7.4
+594,YOUNG FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,6/3/2019,2,8.8
+595,YOUNG FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,8/26/2018,2,7.4
+596,YOUNG FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,8/3/2018,2,7.6
+597,MIDAGE SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,7/16/2018,2,7.6
+598,RETIREES,Grain,Grain Waves Sour    Cream&Chives 210G,12/26/2018,2,7.2
+599,MIDAGE SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,5/19/2019,2,8.8
+600,RETIREES,Kettle,Kettle Chilli 175g,2/15/2019,2,10.8
+601,OLDER SINGLES/FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,10/5/2018,2,10.8
+602,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Original 170g,7/4/2018,2,8.8
+603,NEW SINGLES/FAMILIES,RRD,RRD Steak &         Chimuchurri 150g,11/20/2018,1,2.7
+604,YOUNG FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,8/23/2018,1,3.6
+605,OLDER SINGLES/FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,6/4/2019,2,7.2
+606,RETIREES,RRD,RRD SR Slow Rst     Pork Belly 150g,8/2/2018,2,5.4
+607,OLDER FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,4/24/2019,2,7.4
+608,RETIREES,RRD,RRD Honey Soy       Chicken 165g,5/13/2019,2,6
+609,OLDER FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,3/29/2019,2,9.2
+610,OLDER FAMILIES,Pringles,Pringles Sweet&Spcy BBQ 134g,3/10/2019,2,7.4
+611,RETIREES,Cobs,Cobs Popd Sour Crm  &Chives Chips 110g,6/15/2019,2,7.6
+612,NEW FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,2/26/2019,2,9.2
+613,MIDAGE SINGLES/FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,5/9/2019,2,8.8
+614,OLDER SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,4/25/2019,2,11.4
+615,OLDER SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,10/31/2018,2,10.8
+616,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Southern Chicken 150g,8/6/2018,2,7.8
+617,RETIREES,RRD,RRD Chilli&         Coconut 150g,11/8/2018,2,5.4
+618,NEW SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,4/4/2019,2,3.4
+619,RETIREES,Kettle,Kettle 135g Swt Pot Sea Salt,10/24/2018,2,8.4
+620,YOUNG FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,9/21/2018,2,3.4
+621,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,4/24/2019,2,7.8
+622,YOUNG SINGLES/FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,3/10/2019,2,7.6
+623,OLDER SINGLES/FAMILIES,Doritos,Doritos Cheese      Supreme 330g,3/19/2019,2,11.4
+624,OLDER FAMILIES,RRD,RRD Pc Sea Salt     165g,7/7/2018,2,6
+625,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,3/13/2019,2,3.4
+626,MIDAGE SINGLES/FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,5/19/2019,3,11.4
+627,NEW SINGLES/FAMILIES,RRD,RRD Honey Soy       Chicken 165g,9/8/2018,2,6
+628,RETIREES,Grain,Grain Waves         Sweet Chilli 210g,12/4/2018,2,7.2
+629,OLDER SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,12/24/2018,2,9.2
+630,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,8/18/2018,2,7.6
+631,YOUNG FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,1/22/2019,2,7.6
+632,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,10/20/2018,1,4.6
+633,YOUNG FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,12/16/2018,2,13
+634,OLDER SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,7/13/2018,2,9.2
+635,RETIREES,Doritos,Doritos Cheese      Supreme 330g,4/6/2019,2,11.4
+636,OLDER FAMILIES,WOOLWORTHS,WW Sour Cream &OnionStacked Chips 160g,9/18/2018,2,3.8
+637,NEW FAMILIES,RRD,RRD Lime & Pepper   165g,8/6/2018,2,6
+638,MIDAGE SINGLES/FAMILIES,Pringles,Pringles Original   Crisps 134g,9/9/2018,2,7.4
+639,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,12/21/2018,2,8.8
+640,RETIREES,Kettle,Kettle Tortilla ChpsBtroot&Ricotta 150g,7/11/2018,2,9.2
+641,OLDER SINGLES/FAMILIES,Pringles,Pringles Mystery    Flavour 134g,10/25/2018,2,7.4
+642,RETIREES,Doritos,Doritos Corn Chips  Cheese Supreme 170g,4/9/2019,2,8.8
+643,OLDER FAMILIES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,3/27/2019,2,7.6
+644,YOUNG FAMILIES,RRD,RRD Salt & Vinegar  165g,3/5/2019,2,6
+645,YOUNG FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,3/28/2019,2,9.2
+646,OLDER FAMILIES,Doritos,Doritos Corn Chips  Nacho Cheese 170g,6/12/2019,2,8.8
+647,YOUNG SINGLES/FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,7/15/2018,2,7.4
+648,YOUNG SINGLES/FAMILIES,Kettle,Kettle Chilli 175g,7/29/2018,2,10.8
+649,YOUNG SINGLES/FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,1/26/2019,2,9.2
+650,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,3/1/2019,2,7.6
+651,NEW FAMILIES,RRD,RRD Salt & Vinegar  165g,1/24/2019,2,6
+652,RETIREES,Infzns,Infzns Crn Crnchers Tangy Gcamole 110g,5/8/2019,2,7.6
+653,OLDER FAMILIES,WOOLWORTHS,WW Crinkle Cut      Chicken 175g,4/4/2019,2,3.4
+654,YOUNG SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,11/5/2018,2,7.6
+655,YOUNG FAMILIES,Kettle,Kettle Sensations   Siracha Lime 150g,11/27/2018,2,9.2
+656,YOUNG SINGLES/FAMILIES,Kettle,Kettle Sea Salt     And Vinegar 175g,3/24/2019,1,5.4
+657,YOUNG SINGLES/FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,1/31/2019,2,3.4
+658,YOUNG SINGLES/FAMILIES,RRD,RRD Chilli&         Coconut 150g,7/18/2018,2,5.4
+659,OLDER FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,6/6/2019,2,8.8
+660,OLDER SINGLES/FAMILIES,Doritos,Doritos Corn Chip Mexican Jalapeno 150g,7/29/2018,2,7.8
+661,OLDER SINGLES/FAMILIES,Red,Red Rock Deli Chikn&Garlic Aioli 150g,8/9/2018,2,5.4
+662,OLDER FAMILIES,Grain,Grain Waves         Sweet Chilli 210g,5/12/2019,2,7.2
+663,RETIREES,Doritos,Doritos Cheese      Supreme 330g,7/21/2018,2,11.4
+664,NEW FAMILIES,Kettle,Kettle Mozzarella   Basil & Pesto 175g,5/22/2019,2,10.8
+665,RETIREES,Pringles,Pringles Sweet&Spcy BBQ 134g,3/18/2019,2,7.4
+666,RETIREES,Kettle,Kettle Chilli 175g,1/5/2019,2,10.8
+667,OLDER FAMILIES,Pringles,Pringles Slt Vingar 134g,3/29/2019,2,7.4
+668,OLDER FAMILIES,Infuzions,Infuzions Thai SweetChili PotatoMix 110g,3/30/2019,2,7.6
+669,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,11/3/2018,2,7.6
+670,MIDAGE SINGLES/FAMILIES,Kettle,Kettle Sensations   BBQ&Maple 150g,3/10/2019,2,9.2
+671,YOUNG FAMILIES,Doritos,Doritos Corn Chips  Original 170g,2/13/2019,2,8.8
+672,RETIREES,RRD,RRD Lime & Pepper   165g,8/1/2018,1,3
+673,YOUNG FAMILIES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,11/27/2018,2,9.2
+674,OLDER SINGLES/FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,6/13/2019,2,7.2
+675,OLDER SINGLES/FAMILIES,Dorito,Dorito Corn Chp     Supreme 380g,11/20/2018,2,13
+676,RETIREES,RRD,RRD Lime & Pepper   165g,6/3/2019,2,6
+677,OLDER FAMILIES,Pringles,Pringles Sthrn FriedChicken 134g,2/14/2019,2,7.4
+678,RETIREES,Kettle,Kettle Tortilla ChpsFeta&Garlic 150g,5/30/2019,2,9.2
+679,RETIREES,Kettle,Kettle Tortilla ChpsHny&Jlpno Chili 150g,12/1/2018,2,9.2
+680,RETIREES,RRD,RRD Sweet Chilli &  Sour Cream 165g,10/3/2018,2,6
+681,OLDER FAMILIES,WOOLWORTHS,WW Crinkle Cut      Original 175g,12/9/2018,2,3.4
+682,OLDER FAMILIES,Cobs,Cobs Popd Sea Salt  Chips 110g,5/27/2019,2,7.6
+683,YOUNG SINGLES/FAMILIES,Pringles,Pringles Chicken    Salt Crips 134g,12/30/2018,2,7.4
+684,OLDER FAMILIES,Pringles,Pringles Mystery    Flavour 134g,12/30/2018,2,7.4
+685,RETIREES,Kettle,Kettle Sensations   Camembert & Fig 150g,3/15/2019,2,9.2
+686,OLDER SINGLES/FAMILIES,WOOLWORTHS,WW Original Stacked Chips 160g,7/30/2018,1,1.9
+687,OLDER FAMILIES,Tostitos,Tostitos Lightly    Salted 175g,10/30/2018,2,8.8
+688,RETIREES,Kettle,Kettle Original 175g,6/18/2019,2,10.8
+689,OLDER FAMILIES,RRD,RRD Sweet Chilli &  Sour Cream 165g,4/19/2019,2,6
+690,OLDER SINGLES/FAMILIES,Cheetos,Cheetos Puffs 165g,5/7/2019,2,5.6
+691,RETIREES,Cobs,Cobs Popd Sea Salt  Chips 110g,12/24/2018,2,7.6
+692,YOUNG SINGLES/FAMILIES,Kettle,Kettle Original 175g,1/23/2019,2,10.8
+693,RETIREES,Tostitos,Tostitos Splash Of  Lime 175g,3/19/2019,2,8.8
+694,OLDER SINGLES/FAMILIES,Cobs,Cobs Popd Swt/Chlli &Sr/Cream Chips 110g,3/15/2019,2,7.6
+695,OLDER SINGLES/FAMILIES,Tostitos,Tostitos Smoked     Chipotle 175g,12/11/2018,2,8.8
+696,OLDER FAMILIES,Infuzions,Infuzions SourCream&Herbs Veg Strws 110g,4/21/2019,2,7.6
+697,OLDER SINGLES/FAMILIES,Infuzions,Infuzions BBQ Rib   Prawn Crackers 110g,11/19/2018,2,7.6
+698,OLDER FAMILIES,Grain,Grain Waves Sour    Cream&Chives 210G,3/14/2019,2,7.2
+699,NEW FAMILIES,Pringles,Pringles Barbeque   134g,4/3/2019,1,3.7
+700,YOUNG FAMILIES,Kettle,Kettle Honey Soy    Chicken 175g,7/29/2018,2,10.8
